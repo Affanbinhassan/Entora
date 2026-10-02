@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+requests
+PyJWT
+pwdlib
+tavily-python
+exa-py
+scikit-learn
